@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHyperCat", "NHyperCat\NHyperCat.csproj", "{9BED914A-D48E-4514-9224-A7B612BE609B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHyperCatConsole", "NHyperCatConsole\NHyperCatConsole.csproj", "{D9D43AD6-0F8A-4CA1-9243-D7450CF3D270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BED914A-D48E-4514-9224-A7B612BE609B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BED914A-D48E-4514-9224-A7B612BE609B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BED914A-D48E-4514-9224-A7B612BE609B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BED914A-D48E-4514-9224-A7B612BE609B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9D43AD6-0F8A-4CA1-9243-D7450CF3D270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D43AD6-0F8A-4CA1-9243-D7450CF3D270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D43AD6-0F8A-4CA1-9243-D7450CF3D270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D43AD6-0F8A-4CA1-9243-D7450CF3D270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

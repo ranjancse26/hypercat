@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RanjanDailata.NHyperCat.NHyperCat</id>
+    <version>1.0.0</version>
+    <authors>Ranjan Dailata</authors>
+    <owners>Ranjan Dailata</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>HyperCat .NET Toolkit or Library for building and parsing Hypercat 3 compatible catalogues'</description>
+    <releaseNotes>Initial version of NHyperCat 1.0.0</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>HyperCat</tags>
+  </metadata>
+</package>
